@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex 👋
 <img src="https://www.wavook.com/innovaeditor/assets/wavook/newlogobird.png" align="right" height="100" />
-Welcome to my GitHub! I'm a Computer Information Systems and Security graduate who's transitioning into Software Engineering. Through self-study and participating in Hackathons, I am building a solid foundation in both frontend and backend technologies and languages. My end goal is to merge all my experiences and join DevOps. 
+Welcome to my GitHub! I'm a Computer Information Systems and Security graduate who's transitioning into Software Engineering. Through self-study and participating in Hackathons, I am building a solid foundation in both frontend and backend technologies and languages. My end goal is to merge all my experiences and join a DevOps team. 
 
 ### ⚡ Relevant achievements
 - People’s Choice Award - UndocuLock | UndocuHacks 2017 
@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a Computer Information Systems and Security graduate w
 - CrUX Recognition - Core Web Vitals Tool | Google CrUX 2020
 
 ### 💡 Goals for 2020
-- become a Software Engineer
+- Become a Software Engineer
 - I’m currently learning everything 
 - Contribute more to Open Source projects
 
