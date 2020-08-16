@@ -1,14 +1,15 @@
 ### Hi there, I'm Alex 👋
 <img src="https://www.wavook.com/innovaeditor/assets/wavook/newlogobird.png" align="right" height="100" />
-With a background in Information Technology and experience in web development. I am pursuing a position as a team member in an organization that cares about the user and its creative environment.
 
+With a background in Information Technology and experience in web development. I am pursuing a position as a team member in an organization that cares about the user and its creative environment.
+<br><br><br>
 
 - 🔭 I’m currently working to become a Software Engineer
 - 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zer0kool&color=blue)
-[![Linkedin: Alejandro](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zer0dev/)](https://www.linkedin.com/in/zer0dev/)
+[![Linkedin: Alejandro](https://img.shields.io/badge/-zer0kool-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zer0dev/)](https://www.linkedin.com/in/zer0dev/)
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
