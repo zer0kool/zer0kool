@@ -24,6 +24,3 @@
 <img align="left" alt="zer0kool's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zer0kool&show_icons=true&hide_border=true" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zer0kool&color=blue)
-[website]: https://wavook.com
-
-[logo]: https://www.wavook.com/innovaeditor/assets/wavook/newlogobird.png
