@@ -1,10 +1,11 @@
-<img src="https://www.wavook.com/innovaeditor/assets/wavook/newlogobird.png" align="right" height="100" />
 ### Hi there, I'm Alex 👋
+<img src="https://www.wavook.com/innovaeditor/assets/wavook/newlogobird.png" align="right" height="100" />
 
 - 🔭 I’m currently working to become a Software Engineer
 - 🌱 I’m currently learning everything 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
+![Profile Views](https://komarev.com/ghpvc/?username=zer0kool&color=blue)
 
 ### Languages and Tools:
 
@@ -23,4 +24,3 @@
 <br><br><br>
 <img align="left" alt="zer0kool's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zer0kool&show_icons=true&hide_border=true" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=zer0kool&color=blue)
