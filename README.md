@@ -1,6 +1,5 @@
+<img src="https://www.wavook.com/innovaeditor/assets/wavook/newlogobird.png" align="right" height="100" />
 ### Hi there, I'm Alex 👋
-![Profile Views](https://komarev.com/ghpvc/?username=zer0kool&color=blue)
-<img src="https://www.wavook.com/innovaeditor/assets/wavook/newlogobird.png" align="right" height="275" />
 
 - 🔭 I’m currently working to become a Software Engineer
 - 🌱 I’m currently learning everything 
@@ -21,10 +20,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 
-<br>
+<br><br><br>
 <img align="left" alt="zer0kool's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zer0kool&show_icons=true&hide_border=true" />
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=zer0kool&color=blue)
 [website]: https://wavook.com
 
 [logo]: https://www.wavook.com/innovaeditor/assets/wavook/newlogobird.png
