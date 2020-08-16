@@ -1,11 +1,17 @@
 ### Hi there, I'm Alex 👋
-With a background in Information Technology and experience in web development. I am pursuing a position as a team member in an organization that cares about the user and its creative environment.
 <img src="https://www.wavook.com/innovaeditor/assets/wavook/newlogobird.png" align="right" height="100" />
-<br>
+Welcome to my GitHub! I'm a Computer Information Systems and Security graduate who's transitioning into Software Engineering. Through self-study and participating in Hackathons, I am building a solid foundation in both frontend and backend technologies and languages. My end goal is to merge all my experiences and join DevOps. 
 
-- 🔭 I’m currently working to become a Software Engineer
-- 🌱 I’m currently learning everything 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+### ⚡ Relevant achievements
+- People’s Choice Award - UndocuLock | UndocuHacks 2017 
+- Second Place - ERGON | Stay Hacking, Netflix HQ 2018 
+- undefined Award - VRAS PWA | Latinos in tech hackathon, PayScale HQ 2019
+- CrUX Recognition - Core Web Vitals Tool | Google CrUX 2020
+
+### 💡 Goals for 2020
+- become a Software Engineer
+- I’m currently learning everything 
+- Contribute more to Open Source projects
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zer0kool&color=blue)
 [![Linkedin: Alejandro](https://img.shields.io/badge/-Alejandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zer0dev/)](https://www.linkedin.com/in/zer0dev/)
