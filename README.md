@@ -1,4 +1,5 @@
 ### Hi there, I'm Alex 👋
+![Profile Views](https://komarev.com/ghpvc/?username=zer0kool&color=blue)
 
 - 🔭 I’m currently working to become a Software Engineer
 - 🌱 I’m currently learning everything 
