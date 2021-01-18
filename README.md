@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm a Computer Information Systems and Security graduate w
 - People’s Choice Award - UndocuLock | UndocuHacks 2017 
 - Second Place - ERGON | Stay Hacking, Netflix HQ 2018 
 - undefined Award - VRAS PWA | Latinos in tech hackathon, PayScale HQ 2019
-- CrUX Recognition - Core Web Vitals Tool | Google CrUX 2020
+- Tool Recognition - CrUX Tool | Chrome UX Report, @ChromeUXReport 2020
 
-### 💡 Goals for 2020
+### 💡 Goals for 2021
 - Become a Software Engineer
 - I’m currently learning everything 
 - Contribute more to Open Source projects
