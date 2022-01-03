@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm a Computer Information Systems and Security graduate w
 - Vulnerability & Exploit - cos.tv | Blockchain Block#59763255, Contentos.io 2021
 
 ### 💡 Goals for 2022 (crypto mania)
+- Build only web3 applications
 - Build a login using a blockchain
 - Build an NFT smart contract
 - Contribute more to Open Source projects
