@@ -7,10 +7,11 @@ Welcome to my GitHub! I'm a Computer Information Systems and Security graduate w
 - Second Place - ERGON | Stay Hacking, Netflix HQ 2018 
 - undefined Award - VRAS PWA | Latinos in tech hackathon, PayScale HQ 2019
 - Tool Recognition - CrUX Tool | Chrome UX Report, @ChromeUXReport 2020
+- Vulnerability && Exploit - cos.tv | Blockchain Block#59763255, Contentos.io 2021
 
-### 💡 Goals for 2021
-- Become a Software Engineer
-- I’m currently learning everything 
+### 💡 Goals for 2022 (crypto mania)
+- Build a login using a blockchain
+- Build an NFT smart contract
 - Contribute more to Open Source projects
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zer0kool&color=blue)
